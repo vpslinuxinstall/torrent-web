@@ -21,5 +21,6 @@ Torrent Web is a self hosted server. It lets you direct download torrents with a
 ### Command line options
 Change the port with --port= or -p=  
 `torrent-web -p=8080`
+`node server.js -p=8080`
 
 ###### © Andrea Stella, ISC license.
