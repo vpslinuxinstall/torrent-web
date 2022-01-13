@@ -19,6 +19,8 @@ Torrent Web is a self hosted server. It lets you direct download torrents with a
 - Visit [http://localhost/](http://localhost/) in your browser.
 
 ## Get your own (Advanced)
+- `git clone https://github.com/vpslinuxinstall/torrent-web.git`
+- `cd torrent-web`
 - `npm install`
 - `npm start`
 - `node server.js -p=8080`
